@@ -3,12 +3,14 @@
 
 - AI生成サービスへの生成リクエストを管理するWebシステム（というテーマ）
 
+# 技術スタック
+
 - 言語
   - Python
 - フレームワーク・ライブラリ
   - Fast API
   - SQL Alchemy
-- バックエンド(DB)
+- データベース
   - Tencent Cloud | Cloud Native Database TDSQL-C
 
 # この開発の目的
