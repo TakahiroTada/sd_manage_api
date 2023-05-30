@@ -1,4 +1,4 @@
 
 # ChatGPT(GPT-4)とCopilotで実装中
 
-- 社外公開されたStable Diffusionに送られてくる生成リクエストを整理する管理サーバー（というテーマ）
+- Stable DiffusionをAIサービスとして社外公開することを想定した、生成リクエストの管理システム（というテーマ）
