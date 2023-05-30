@@ -11,8 +11,8 @@
   - Fast API
   - SQL Alchemy
 - データベース
-  - Tencent Cloud | Cloud Native Database TDSQL-C
+  - Cloud Native Database TDSQL-C (Tencent Cloud)
 
 # この開発の目的
 - AIを活用した開発を模索する。
-- Tencentプロダクト（Cloud Native Database TDSQL-C）について知見を深める。
+- Tencent製のNewSQLプロダクト（Cloud Native Database TDSQL-C）について知見を深める。
