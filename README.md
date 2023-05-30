@@ -9,4 +9,4 @@
   - Fast API
   - SQL Alchemy
 - バックエンド(DB)
-  - Tencent Cloud TDSQL-C
+  - Tencent Cloud | Cloud Native Database TDSQL-C
