@@ -1,1 +1,2 @@
-# sd_manage_api
+
+# ChatGPT(GPT-4)とCopilotで実装中
